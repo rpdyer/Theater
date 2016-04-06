@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-06" time="10:41:22">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8669" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug" machine-name="RDYER-4NBN" user="I58244" user-domain="XACTDOM" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.dll" executed="True" result="Failure" success="False" time="0.321" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TheaterSeating" executed="True" result="Failure" success="False" time="0.312" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SeatFinderTests" executed="True" result="Failure" success="False" time="0.311" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="SuggestTest1" executed="True" result="Failure" success="False" time="0.306" asserts="0">
+                <results>
+                  <test-case name="TheaterSeating.SeatFinderTests.SuggestTest1(&quot;[\'A5\',\'A6\']&quot;,2)" executed="True" result="Failure" success="False" time="0.299" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected string length 11 but was 4. Strings differ at index 0.
+  Expected: "['A3','A4']"
+  But was:  "null"
+  -----------^
+]]></message>
+                      <stack-trace><![CDATA[]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

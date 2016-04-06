@@ -1,0 +1,13 @@
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.dll
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.pdb
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\nunit.framework.dll
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\bin\Debug\nunit.framework.xml
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\obj\Debug\TheaterSeating.dll
+C:\Users\i58244\Documents\Visual Studio 2015\Katas\TheaterSeating\TheaterSeating\obj\Debug\TheaterSeating.pdb
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.dll
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\bin\Debug\TheaterSeating.pdb
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\bin\Debug\nunit.framework.dll
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\bin\Debug\nunit.framework.xml
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\obj\Debug\TheaterSeating.csprojResolveAssemblyReference.cache
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\obj\Debug\TheaterSeating.dll
+C:\Users\i58244\Documents\GitHub\Theater\TheaterSeating\TheaterSeating\obj\Debug\TheaterSeating.pdb
